@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
+![Modern Minimalist Simple Technology Banner (1)](https://github.com/pavankalyan100/pavankalyan100/assets/96170208/a264e50e-5087-4fbe-9b88-ace7525c0088)
