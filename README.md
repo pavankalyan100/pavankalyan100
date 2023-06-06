@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/pavankalyan__100?theme=dark&font=source_code_pro&extension=activity)
 
-![LeetCode Badges](https://leetcode-badge-showcase.verce.app/api?username=pavankalyan__100)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=pavankalyan__100)
