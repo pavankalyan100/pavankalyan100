@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Modern Minimalist Simple Technology Banner (1)](https://github.com/pavankalyan100/pavankalyan100/assets/96170208/a264e50e-5087-4fbe-9b88-ace7525c0088)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/pavankalyan__100?theme=dark&font=source_code_pro&extension=activity)
+
+![LeetCode Badges](https://leetcode-badge-showcase.verce.app/api?username=pavankalyan__100)
